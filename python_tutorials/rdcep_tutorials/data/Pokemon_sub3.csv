@@ -1,0 +1,5 @@
+Number,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+7,Squirtle,Water,,314,44,48,65,50,64,43,1,FALSE
+8,Wartortle,Water,,405,59,63,80,65,80,58,1,FALSE
+9,Blastoise,Water,,530,79,83,100,85,105,78,1,FALSE
+9,BlastoiseMega Blastoise,Water,,630,79,103,120,135,115,78,1,FALSE
