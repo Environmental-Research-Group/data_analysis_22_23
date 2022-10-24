@@ -1,0 +1,8 @@
+,Number,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+162,150,Mewtwo,Psychic,,680,106,110,90,154,90,130,1,True
+163,150,MewtwoMega Mewtwo X,Psychic,Fighting,780,106,190,100,154,100,130,1,True
+164,150,MewtwoMega Mewtwo Y,Psychic,,780,106,150,70,194,120,140,1,True
+428,386,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,True
+429,386,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,True
+430,386,DeoxysDefense Forme,Psychic,,600,50,70,160,70,160,90,3,True
+431,386,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,True
