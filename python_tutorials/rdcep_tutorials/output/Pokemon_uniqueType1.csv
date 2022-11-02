@@ -1,0 +1,19 @@
+,Number,Name,Type 1,Type 2,Total_Stats,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,test,Boss2
+0,1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False,0,0
+4,4,Charmander,Fire,no type,309,39,52,43,60,50,65,1,False,0,0
+9,7,Squirtle,Water,no type,314,44,48,65,50,64,43,1,False,0,0
+13,10,Caterpie,Bug,no type,195,45,30,35,20,20,45,1,False,0,0
+20,16,Pidgey,Normal,Flying,251,40,45,40,35,35,56,1,False,0,0
+28,23,Ekans,Poison,no type,288,35,60,44,40,54,55,1,False,0,0
+30,25,Pikachu,Electric,no type,320,35,55,40,50,50,90,1,False,0,0
+32,27,Sandshrew,Ground,no type,300,50,75,85,20,30,40,1,False,0,0
+40,35,Clefairy,Fairy,no type,323,70,45,48,60,65,35,1,False,0,0
+61,56,Mankey,Fighting,no type,305,40,80,35,35,45,70,1,False,0,0
+68,63,Abra,Psychic,no type,310,25,20,15,105,55,90,1,False,0,0
+80,74,Geodude,Rock,Ground,300,40,80,100,30,30,20,1,False,0,0
+99,92,Gastly,Ghost,Poison,310,30,35,30,100,35,80,1,False,0,0
+133,124,Jynx,Ice,Psychic,455,65,50,35,115,95,95,1,False,0,0
+159,147,Dratini,Dragon,no type,300,41,64,45,50,50,50,1,False,0,0
+212,197,Umbreon,Dark,no type,525,95,65,110,60,130,65,2,False,0,0
+223,208,Steelix,Steel,Ground,510,75,85,200,55,65,30,2,False,0,0
+702,641,TornadusIncarnate Forme,Flying,no type,580,79,115,70,125,80,111,5,True,0,1
